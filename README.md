@@ -1,4 +1,4 @@
-# google_meet_bot
+# Google Meet Bot
 * [Prerequisites](#Prerequisites)
 * [What is inside notebook](#What-is-inside-notebook?)
 * [How to run script](#How-to-run-script?)
