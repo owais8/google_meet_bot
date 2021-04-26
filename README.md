@@ -24,13 +24,12 @@ Presenting "Tabedar Shaagird (تابعدار شاگرد ), A selenium based Pyth
   exe file
  
  * google_meet_data.csv file
-
-  This file contains all your timetable for the week. Just fill in all the information there for week and let the bot handle everything for you. Make sure that you enter time in 
-  24h format and day as "Monday", "Tuesday" etc.
+ 
+   This file contains all your timetable for the week. Just fill in all the information there for week and let the bot handle everything for you. Make sure that you enter time
+   in 24h format and day as "Monday", "Tuesday" etc.
 
 ## How to run script
-Rename the config.json.example file to "config.json"
-Edit the "config.json" file to fit your preferences (optional)
-Install dependencies: pip install -r requirements.txt
-Run auto_joiner.py: python auto_joiner.py
-After starting, teams might be in Grid view, if this is the case change the view to list (How to do)
+
+1. Download all the neccessary files mentioned in "Prerequisites" section
+2. Follow all the steps mentioned in "Configuration" section
+3. Run google_meet_bot.py file and see the magic 
